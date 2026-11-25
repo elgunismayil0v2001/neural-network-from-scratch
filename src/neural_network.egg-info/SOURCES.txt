@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/neural_network/__init__.py
+src/neural_network/data.py
+src/neural_network/layers.py
+src/neural_network.egg-info/PKG-INFO
+src/neural_network.egg-info/SOURCES.txt
+src/neural_network.egg-info/dependency_links.txt
+src/neural_network.egg-info/requires.txt
+src/neural_network.egg-info/top_level.txt
+tests/test_layers.py
